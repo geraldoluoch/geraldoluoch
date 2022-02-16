@@ -1,6 +1,10 @@
-[![Braydon's GitHub Banner](./assets/1625242100629.jpeg)](https://geraldoluoch.com)
+[![Gerald's GitHub Banner](./assets/1625242100629.jpeg)](https://geraldoluoch.com)
 
-### Hi there 👋
+[![Visits Badge](https://badges.pufler.dev/visits/geraldoluoch/geraldoluoch)](https:geraldoluoch.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/geraldoluoch_)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/geraldoluoch/)
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **geraldoluoch/geraldoluoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
