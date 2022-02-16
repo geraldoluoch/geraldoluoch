@@ -1,3 +1,5 @@
+[![Braydon's GitHub Banner](./assets/1625242100629.jpeg)](https://geraldoluoch.com)
+
 ### Hi there 👋
 
 <!--
