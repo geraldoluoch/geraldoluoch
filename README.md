@@ -1,4 +1,4 @@
-[![Gerald's GitHub Banner](./assets/1625242100629.jpeg)](https://geraldoluoch.com)
+[![Gerald's GitHub Banner](./assets/1625242100629.png)](https://geraldoluoch.com)
 
 [![Visits Badge](https://badges.pufler.dev/visits/geraldoluoch/geraldoluoch)](https://badges.pufler.dev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/geraldoluoch/)
